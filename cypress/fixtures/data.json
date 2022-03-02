@@ -1,0 +1,8 @@
+{
+    "basicUrl":"http://testphp.vulnweb.com/login.php",
+    "username":":nth-child(1) > :nth-child(2) > input",
+    "password":":nth-child(2) > :nth-child(2) > input",
+    "success":"http://testphp.vulnweb.com/userinfo.php",
+    "button":":nth-child(3) > td > input",
+    "testusername":"123"
+}
